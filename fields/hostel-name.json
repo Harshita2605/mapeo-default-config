@@ -1,0 +1,7 @@
+{
+    "key": "hostel-name",
+    "type": "localized",
+    "label": "Hostel Name",
+    "universal": true,
+    "placeholder": "Name of Hostel"
+}

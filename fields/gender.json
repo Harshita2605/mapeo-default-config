@@ -1,0 +1,8 @@
+{
+    "key": "gender",
+    "type": "select_one",
+    "label": "Gender",
+    "universal": true,
+    "placeholder": "Gender",
+    "options": ["Male", "Female", "CoEd"]
+}

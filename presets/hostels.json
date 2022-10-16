@@ -1,0 +1,16 @@
+{
+    "icon": "building",
+    "color": "#B209B2",
+    "fields": [
+        "hostel-name",
+        "gender"
+    ],
+    "geometry": [
+        "point",
+		"area"
+    ],
+    "tags": {
+    },
+    "terms":[],
+    "name": "Hostels"
+}
